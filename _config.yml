@@ -4,6 +4,7 @@ title: "" # the name of your site, e.g. ACME Corp.
 
 plugins:
   - jekyll-postcss
+  - jekyll-datapage-generator
 
 postcss:
   cache: false
@@ -13,3 +14,35 @@ exclude:
   - package-lock.json
   - postcss.config.js
   - tailwind.config.js
+
+exclude:
+  - /lib
+
+# For jekyll-datapage-generator
+page_gen:
+  - data: organizations
+    template: organizations
+    dir: organizations
+    index_files: true #[true|false]
+    name_expr: "record['abbreviation'].downcase"
+    title: 'name'
+    # title_expr: [a Ruby expression to generate the filename (alternative to title)]
+    # extension: [extension used to generate the filename]
+    # filter: [property to filter data records by]
+    # filter_condition: [a Ruby expression to filter data]
+    # page_data_prefix: [prefix used to name variables]
+    # debug: [boolean, if true output more informative messages]
+
+  - data: digital_service_accounts
+    template: account
+    dir: accounts
+    index_files: true #[true|false]
+    name: "id"
+    # name_expr: [a Ruby expression to generate the filename (alternative to name)]
+    title: 'id'
+    # title_expr: [a Ruby expression to generate the filename (alternative to title)]
+    # extension: [extension used to generate the filename]
+    # filter: [property to filter data records by]
+    # filter_condition: [a Ruby expression to filter data]
+    # page_data_prefix: [prefix used to name variables]
+    # debug: [boolean, if true output more informative messages]
