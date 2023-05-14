@@ -1,0 +1,3424 @@
+[
+  {
+    "id": 2243,
+    "name": "Advanced Research Projects Agency for Health",
+    "url": "https://arpa-h.gov/",
+    "abbreviation": "ARPA-H",
+    "domain": "arpa-h.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2189,
+    "name": "Advisory Council of Historic Preservation",
+    "url": "https://www.achp.gov/",
+    "abbreviation": "ACHP",
+    "domain": "achp.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2190,
+    "name": "American Battle Monuments Commission",
+    "url": "https://www.abmc.gov/",
+    "abbreviation": "ABMC",
+    "domain": "abmc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2249,
+    "name": "Architect of the Capitol",
+    "url": "https://www.aoc.gov/",
+    "abbreviation": "AOC",
+    "domain": "aoc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2256,
+    "name": "Board of Governors of the Federal Reserve System",
+    "url": "https://www.federalreserve.gov/",
+    "abbreviation": "FEDRESERVE",
+    "domain": "federalreserve.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2262,
+    "name": "Bonneville Power Administration",
+    "url": "https://www.bpa.gov/",
+    "abbreviation": "BPA",
+    "domain": "bpa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2286,
+    "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+    "url": "https://www.atf.gov/",
+    "abbreviation": "ATF",
+    "domain": "atf.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2163,
+    "name": "Bureau of Economic Analysis",
+    "url": "https://www.bea.gov/",
+    "abbreviation": "BEA",
+    "domain": "bea.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2158,
+    "name": "Bureau of Indian Affairs",
+    "url": "https://www.bia.gov/",
+    "abbreviation": "BIA",
+    "domain": "bia.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2250,
+    "name": "Bureau of Safety and Environmental Enforcement",
+    "url": "https://www.bsee.gov/",
+    "abbreviation": "BSEE",
+    "domain": "bsee.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2099,
+    "name": "Bureau of the Fiscal Service",
+    "url": "https://fiscal.treasury.gov/",
+    "abbreviation": "FS",
+    "domain": "treasury.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "treasury",
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2140,
+    "name": "Centers for Disease Control and Prevention",
+    "url": "https://cdc.gov",
+    "abbreviation": "CDC",
+    "domain": "cdc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2194,
+    "name": "Commission on Civil Rights",
+    "url": "https://www.usccr.gov/",
+    "abbreviation": "USCCR",
+    "domain": "usccr.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2280,
+    "name": "Commodity Futures Trading Commission",
+    "url": "https://www.cftc.gov/",
+    "abbreviation": "CFTC",
+    "domain": "cftc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2195,
+    "name": "Consumer Product Safety Commission",
+    "url": "https://www.cpsc.gov/",
+    "abbreviation": "CPSC",
+    "domain": "cpsc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2143,
+    "name": "Consumer Protection Finance Bureau",
+    "url": "https://www.consumerfinance.gov/",
+    "abbreviation": "CFPB",
+    "domain": "cfpb.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2175,
+    "name": "Corporation for National and Community Service",
+    "url": "https://americorps.gov/",
+    "abbreviation": "AMERICORPS",
+    "domain": "americorps.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2275,
+    "name": "Council of the Inspectors General on Integrity and Efficiency",
+    "url": "https://www.oversight.gov/",
+    "abbreviation": "CIGIE",
+    "domain": "cigie.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2093,
+    "name": "Customs and Border Protection",
+    "url": "https://cbp.dhs.gov",
+    "abbreviation": "CBP",
+    "domain": "dhs.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2270,
+    "name": "Defense Commissary Agency",
+    "url": "https://commissaries.com/our-agency/about-deca",
+    "abbreviation": "DECA",
+    "domain": "deca.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2279,
+    "name": "Defense Contract Audit Agency",
+    "url": "https://www.dcaa.mil",
+    "abbreviation": "DCAA",
+    "domain": "dcaa.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2278,
+    "name": "Defense Intelligence Agency",
+    "url": "https://www.dia.mil/",
+    "abbreviation": "DIA",
+    "domain": "dia.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2098,
+    "name": "Department of Agriculture",
+    "url": "https://usda.gov",
+    "abbreviation": "USDA",
+    "domain": "usda.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "agriculture",
+    "mission_statement": "To serve all Americans by providing effective, innovative, science-based public policy leadership in agriculture, food and nutrition, natural resource protection and management, rural development, and related issues with a commitment to deliver equitable and climate-smart opportunities that inspire and help America thrive.",
+    "mission_statement_url": "https://www.usda.gov/",
+    "performance_url": "https://www.usda.gov/our-agency/about-usda/performance",
+    "strategic_plan_url": "https://www.usda.gov/obpa/home",
+    "learning_agenda_url": "https://www.usda.gov/our-agency/about-usda/performance",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2138,
+    "name": "Department of Commerce",
+    "url": "https://www.commerce.gov/",
+    "abbreviation": "DOC",
+    "domain": "doc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "commerce",
+    "mission_statement": "Create the conditions for economic growth and opportunity for all communities.",
+    "mission_statement_url": "https://www.commerce.gov/",
+    "performance_url": "https://www.commerce.gov/about/budget-and-performance",
+    "strategic_plan_url": "https://www.commerce.gov/about/budget-and-performance",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-commerce/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2127,
+    "name": "Department of Defense",
+    "url": "https://www.defense.gov/",
+    "abbreviation": "DOD",
+    "domain": "mail.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "Provide the military forces needed to deter war and ensure our nation's security.",
+    "mission_statement_url": "https://www.defense.gov/",
+    "performance_url": "https://dam.defense.gov/Performance/",
+    "strategic_plan_url": "https://dam.defense.gov/Portals/47/Documents/DoD_Strategic_Management_Plan_FY22-26.pdf",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-defense/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2239,
+    "name": "Department of Defense Office of Inspector General",
+    "url": "https://www.dodig.mil",
+    "abbreviation": "DODIG",
+    "domain": "dodig.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2111,
+    "name": "Department of Education",
+    "url": "https://www.ed.gov/",
+    "abbreviation": "ED",
+    "domain": "ed.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": "Promote student achievement and preparation for global competitiveness by fostering educational excellence and ensuring equal access.",
+    "mission_statement_url": "https://www.ed.gov/",
+    "performance_url": "https://www2.ed.gov/about/reports/annual/index.html",
+    "strategic_plan_url": "https://www2.ed.gov/about/reports/strat/index.html",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-education/",
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2110,
+    "name": "Department of Energy",
+    "url": "https://www.energy.gov/",
+    "abbreviation": "DOE",
+    "domain": "doe.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": "https://www.energy.gov/",
+    "performance_url": "https://www.energy.gov/budget-performance",
+    "strategic_plan_url": "https://www.energy.gov/budget-performance",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-energy/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2139,
+    "name": "Department of Homeland Security",
+    "url": "https://www.dhs.gov/",
+    "abbreviation": "DHS",
+    "domain": "dhs.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "With honor and integrity, we will safeguard the American people, our homeland and our values.",
+    "mission_statement_url": "https://www.dhs.gov/",
+    "performance_url": "https://www.dhs.gov/performance-financial-reports",
+    "strategic_plan_url": "https://www.dhs.gov/strategic-planning",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-homeland-security/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2096,
+    "name": "Department of Housing and Urban Development",
+    "url": "https://hud.gov",
+    "abbreviation": "HUD",
+    "domain": "hud.gov",
+    "logo": {
+      "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/hud-square.png",
+      "thumb": {
+        "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/thumb_hud-square.png"
+      },
+      "card": {
+        "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/card_hud-square.png"
+      },
+      "tag": {
+        "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/tag_hud-square.png"
+      },
+      "logo_square": {
+        "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2096/logo_square_hud-square.png"
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "Create strong, sustainable, inclusive communities and quality affordable homes for all. HUD is working to strengthen the housing market to bolster the economy and protect consumers; meet the need for quality affordable rental homes; utilize housing as a platform for improving quality of life; build inclusive and sustainable communities free from discrimination; and transform the way HUD does business.",
+    "mission_statement_url": "https://www.hud.gov/",
+    "performance_url": "https://www.hud.gov/program_offices/spm/appr",
+    "strategic_plan_url": "https://www.hud.gov/program_offices/spm/pmd",
+    "learning_agenda_url": "https://www.huduser.gov/portal/about/pdr_learningagenda.html",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2082,
+    "name": "Department of Labor",
+    "url": "https://dol.gov/",
+    "abbreviation": "DOL",
+    "domain": "dol.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "To foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.",
+    "mission_statement_url": "https://www.dol.gov/",
+    "performance_url": "https://www.dol.gov/general/aboutdol#budget",
+    "strategic_plan_url": "https://www.dol.gov/general/aboutdol#budget ",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-labor/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2130,
+    "name": "Department of State",
+    "url": "https://www.state.gov",
+    "abbreviation": "DOS",
+    "domain": "state.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "To protect and promote U.S. security, prosperity, and democratic values and shape an international environment in which all Americans can thrive.",
+    "mission_statement_url": "https://www.state.gov/",
+    "performance_url": "https://www.state.gov/plans-performance-budget/performance-plans-and-reports/",
+    "strategic_plan_url": "https://www.state.gov/joint-strategic-plan/",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-state/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2144,
+    "name": "Department of Transportation",
+    "url": "https://www.transportation.gov/",
+    "abbreviation": "DOT",
+    "domain": "dot.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "To deliver the world’s leading transportation system, serving the American people and economy through the safe, efficient, sustainable, and equitable movement of people and goods.",
+    "mission_statement_url": "https://www.transportation.gov/",
+    "performance_url": "https://www.transportation.gov/budget/dot-budget-and-performance",
+    "strategic_plan_url": "https://www.transportation.gov/mission/budget/dot-budget-and-performance-documents#StrategicPlans",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-transportation/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2129,
+    "name": "Department of Veterans Affairs",
+    "url": "https://va.gov",
+    "abbreviation": "VA",
+    "domain": "va.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "To fulfill President Lincoln's promise, “To care for him who shall have borne the battle and for his widow and his orphan”. ",
+    "mission_statement_url": "https://www.va.gov/",
+    "performance_url": "https://www.va.gov/performance/",
+    "strategic_plan_url": "https://www.va.gov/performance/",
+    "learning_agenda_url": "https://www.va.gov/performance/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2135,
+    "name": "Department of the Interior",
+    "url": "https://www.doi.gov/",
+    "abbreviation": "DOI",
+    "domain": "doi.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "Protect and manage the Nation’s natural resources and cultural heritage; provide scientific and other information about those resources; and honor its trust responsibilities or special commitments to American Indians, Alaska Natives, Native Hawaiians, and affiliated Island Communities.",
+    "mission_statement_url": "https://www.doi.gov/",
+    "performance_url": "https://www.doi.gov/performance/performance-reports",
+    "strategic_plan_url": "https://www.doi.gov/performance/strategic-planning",
+    "learning_agenda_url": "https://www.doi.gov/performance/evidence-doi",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2095,
+    "name": "Environmental Protection Agency",
+    "url": "https://www.epa.gov/",
+    "abbreviation": "EPA",
+    "domain": "epa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "To Protect Human Health and the Environment",
+    "mission_statement_url": "https://www.epa.gov/",
+    "performance_url": "https://www.epa.gov/planandbudget",
+    "strategic_plan_url": "https://www.epa.gov/planandbudget/strategicplan",
+    "learning_agenda_url": "https://www.epa.gov/evaluate",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2251,
+    "name": "Farm Credit Administration",
+    "url": "https://www.fca.gov/",
+    "abbreviation": "FCA",
+    "domain": "fca.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2102,
+    "name": "Federal Aviation Administration",
+    "url": "https://www.faa.gov",
+    "abbreviation": "FAA",
+    "domain": "faa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2164,
+    "name": "Federal Bureau of Investigation",
+    "url": "https://www.fbi.gov/",
+    "abbreviation": "FBI",
+    "domain": "fbi.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2269,
+    "name": "Federal Bureau of Prisons",
+    "url": "https://www.bop.gov/",
+    "abbreviation": "BOP",
+    "domain": "bop.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2242,
+    "name": "Federal Deposit Insurance Corporation",
+    "url": "https://www.fdic.gov/",
+    "abbreviation": "FDIC",
+    "domain": "fdic.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2253,
+    "name": "Federal Election Commission",
+    "url": "https://www.fec.gov/",
+    "abbreviation": "FEC",
+    "domain": "fec.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2152,
+    "name": "Federal Emergency Management Agency",
+    "url": "https://www.fema.gov/",
+    "abbreviation": "FEMA",
+    "domain": "fema.dhs.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2153,
+    "name": "Federal Energy Regulatory Commission",
+    "url": "https://ferc.gov/",
+    "abbreviation": "FERC",
+    "domain": "ferc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2254,
+    "name": "Federal Housing Finance Agency",
+    "url": "https://www.fhfa.gov/",
+    "abbreviation": "FHFA",
+    "domain": "fhfa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2271,
+    "name": "Federal Reserve Board",
+    "url": "https://www.federalreserve.gov/",
+    "abbreviation": "FRB",
+    "domain": "frb.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2205,
+    "name": "Federal Trade Commission",
+    "url": "https://www.ftc.gov/",
+    "abbreviation": "FTC",
+    "domain": "ftc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2273,
+    "name": "Food and Drug Administration",
+    "url": "https://www.fda.gov/",
+    "abbreviation": "FDA",
+    "domain": "fda.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2097,
+    "name": "Forest Service",
+    "url": "https://www.fs.fed.us/",
+    "abbreviation": "USFS",
+    "domain": "fs.fed.us",
+    "logo": {
+      "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2097/forest-service.png",
+      "thumb": {
+        "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2097/thumb_forest-service.png"
+      },
+      "card": {
+        "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2097/card_forest-service.png"
+      },
+      "tag": {
+        "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2097/tag_forest-service.png"
+      },
+      "logo_square": {
+        "url": "https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/organization/logo/2097/logo_square_forest-service.png"
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 1,
+    "name": "General Services Administration",
+    "url": "https://www.gsa.gov/",
+    "abbreviation": "GSA",
+    "domain": "gsa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "To deliver the best customer experience and value in real estate, acquisition, and technology services to the Government and the American people.",
+    "mission_statement_url": "https://gsa.gov",
+    "performance_url": "https://www.gsa.gov/reference/reports/budget-performance",
+    "strategic_plan_url": "https://www.gsa.gov/reference/reports/budget-performance/gsa-fy-20222026-strategic-plan",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/general-services-administration/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2165,
+    "name": "Government Accountability Office",
+    "url": "https://www.gao.gov/",
+    "abbreviation": "GAO",
+    "domain": "gao.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2108,
+    "name": "Health Resources & Services Administration",
+    "url": "https://www.hrsa.gov/",
+    "abbreviation": "HRSA",
+    "domain": "hrsa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2245,
+    "name": "Indian Health Service",
+    "url": "https://www.ihs.gov/",
+    "abbreviation": "IHS",
+    "domain": "ihs.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2210,
+    "name": "Inter-American Foundation",
+    "url": "https://www.iaf.gov/",
+    "abbreviation": "IAF",
+    "domain": "iaf.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2123,
+    "name": "Internal Revenue Service",
+    "url": "https://www.irs.gov/",
+    "abbreviation": "IRS",
+    "domain": "irs.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2169,
+    "name": "Library of Congress",
+    "url": "https://loc.gov/",
+    "abbreviation": "LOC",
+    "domain": "loc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2244,
+    "name": "Military Health System and Defense Health Agency",
+    "url": "https://www.health.mil/",
+    "abbreviation": "MHSDHA",
+    "domain": "health.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2234,
+    "name": "Missile Defense Agency",
+    "url": "https://mda.mil/",
+    "abbreviation": "MDA",
+    "domain": "mda.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2145,
+    "name": "National Aeronautics and Space Administration",
+    "url": "https://www.nasa.gov/",
+    "abbreviation": "NASA",
+    "domain": "nasa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "NASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.",
+    "mission_statement_url": "https://nasa.gov",
+    "performance_url": "https://www.nasa.gov/news/budget/index.html",
+    "strategic_plan_url": "https://www.nasa.gov/news/budget/index.html",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/national-aeronautics-and-space-administration/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2124,
+    "name": "National Archives",
+    "url": "https://www.archives.gov/",
+    "abbreviation": "NARA",
+    "domain": "nara.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2215,
+    "name": "National Capital Planning Commission",
+    "url": "https://www.ncpc.gov/",
+    "abbreviation": "NCPC",
+    "domain": "ncpc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2216,
+    "name": "National Council on Disability",
+    "url": "https://www.ncd.gov/",
+    "abbreviation": "NCD",
+    "domain": "ncd.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2176,
+    "name": "National Endowment for the Arts",
+    "url": "https://www.arts.gov",
+    "abbreviation": "NEA",
+    "domain": "arts.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2170,
+    "name": "National Endowment for the Humanities",
+    "url": "https://www.neh.gov/",
+    "abbreviation": "NEH",
+    "domain": "neh.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2118,
+    "name": "National Geospatial Intelligence Agency",
+    "url": "https://www.nga.mil/Pages/Default.aspx",
+    "abbreviation": "NGA",
+    "domain": "nga.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2167,
+    "name": "National Institute of Standards and Technology",
+    "url": "https://www.nist.gov/",
+    "abbreviation": "NIST",
+    "domain": "nist.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2142,
+    "name": "National Institutes of Health",
+    "url": "https://www.nih.gov/",
+    "abbreviation": "NIH",
+    "domain": "nih.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2217,
+    "name": "National Labor Relations Board",
+    "url": "https://www.nlrb.gov/",
+    "abbreviation": "NLRB",
+    "domain": "nlrb.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2272,
+    "name": "National Nuclear Security Administration",
+    "url": "https://www.energy.gov/nnsa/national-nuclear-security-administration",
+    "abbreviation": "NNSA",
+    "domain": "nnsa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2166,
+    "name": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.noaa.gov/",
+    "abbreviation": "NOAA",
+    "domain": "noaa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2141,
+    "name": "National Park Service",
+    "url": "https://www.nps.gov/index.htm",
+    "abbreviation": "NPS",
+    "domain": "nps.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2147,
+    "name": "National Science Foundation",
+    "url": "https://nsf.gov/",
+    "abbreviation": "NSF",
+    "domain": "nsf.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "To promote the progress of science; to advance the national health, prosperity, and welfare; and to secure the national defense.",
+    "mission_statement_url": "https://www.nsf.gov/",
+    "performance_url": "https://beta.nsf.gov/about/budget-performance#performance",
+    "strategic_plan_url": "https://www.nsf.gov/about/performance/strategic_plan.jsp",
+    "learning_agenda_url": " https://nsf-gov-resources.nsf.gov/2022-04/NSF_FY22-FY26%20Learning%20Agenda%20Final.pdf",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2283,
+    "name": "National Security Agency",
+    "url": "https://www.nsa.gov/",
+    "abbreviation": "NSA",
+    "domain": "nsa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2173,
+    "name": "National Telecommunications and Information Administration",
+    "url": "https://ntia.gov/",
+    "abbreviation": "NTIA",
+    "domain": "ntia.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2112,
+    "name": "Navy",
+    "url": "https://www.navy.mil/",
+    "abbreviation": "NAVY",
+    "domain": "navy.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2100,
+    "name": "Office of Management and Budget",
+    "url": "https://omb.gov",
+    "abbreviation": "OMB",
+    "domain": "omb.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2106,
+    "name": "Office of Personnel Management ",
+    "url": "https://www.opm.gov/",
+    "abbreviation": "OPM",
+    "domain": "opm.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "We are champions of talent for the Federal Government. We lead Federal agencies in workforce policies, programs, and benefits in service to the American people.",
+    "mission_statement_url": "https://www.opm.gov/",
+    "performance_url": "https://www.opm.gov/about-us/budget-performance/",
+    "strategic_plan_url": "https://www.opm.gov/about-us/strategic-plan/",
+    "learning_agenda_url": "https://www.opm.gov/about-us/strategic-plan/evidence-building/learning-agenda",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2107,
+    "name": "Office of the Director of National Intelligence",
+    "url": "https://www.dni.gov/",
+    "abbreviation": "ODNI",
+    "domain": "odni.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2232,
+    "name": "Office of the U.S. Trade Representative",
+    "url": "https://ustr.gov/",
+    "abbreviation": "USTR",
+    "domain": "ustr.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2137,
+    "name": "Patent and Trademark Office",
+    "url": "https://www.uspto.gov/",
+    "abbreviation": "USPTO",
+    "domain": "uspto.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2161,
+    "name": "Peace Corps",
+    "url": "https://www.peacecorps.gov/",
+    "abbreviation": "PC",
+    "domain": "peacecorps.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2222,
+    "name": "Pension Benefit Guaranty Corporation",
+    "url": "https://www.pbgc.gov/",
+    "abbreviation": "PBGC",
+    "domain": "pbgc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2284,
+    "name": "Railroad Retirement Board",
+    "url": "https://www.rrb.gov/",
+    "abbreviation": "RRB",
+    "domain": "rrb.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2285,
+    "name": "Selective Service System",
+    "url": "https://www.sss.gov/",
+    "abbreviation": "SSS",
+    "domain": "sss.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2133,
+    "name": "Small Business Administration",
+    "url": "https://sba.gov",
+    "abbreviation": "SBA",
+    "domain": "sba.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "Maintain and strengthen the nation’s economy by enabling the establishment and vitality of small businesses and by assisting in the economic recovery of communities after disasters.",
+    "mission_statement_url": "https://www.sba.gov/",
+    "performance_url": "https://www.sba.gov/cj",
+    "strategic_plan_url": "https://www.sba.gov/sp",
+    "learning_agenda_url": "https://www.sba.gov/evaluation",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2131,
+    "name": "Social Security Administration",
+    "url": "https://ssa.gov",
+    "abbreviation": "SSA",
+    "domain": "ssa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "Ensure equity and accessibility in delivering Social Security services by improving the customer experience and addressing systemic barriers to participation in our programs.",
+    "mission_statement_url": "https://www.ssa.gov/",
+    "performance_url": "https://www.ssa.gov/agency/performance",
+    "strategic_plan_url": "https://www.ssa.gov/agency/asp",
+    "learning_agenda_url": "https://www.ssa.gov/data",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2115,
+    "name": "The United States Census Bureau",
+    "url": "https://www.census.gov/",
+    "abbreviation": "CB",
+    "domain": "census.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2114,
+    "name": "Thrift Savings Plan",
+    "url": "https://www.tsp.gov/",
+    "abbreviation": "TSP",
+    "domain": "tsp.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2132,
+    "name": "Transportation Security Administration",
+    "url": "https://tsa.gov",
+    "abbreviation": "TSA",
+    "domain": "tsa.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2156,
+    "name": "U.S. Access Board",
+    "url": "https://www.access-board.gov/",
+    "abbreviation": "AB",
+    "domain": "access-board.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2168,
+    "name": "U.S. Agency for Global Media",
+    "url": "https://www.usagm.gov/",
+    "abbreviation": "USAGM",
+    "domain": "usagm.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2126,
+    "name": "U.S. Army",
+    "url": "https://www.army.mil/",
+    "abbreviation": "ARMY",
+    "domain": "army.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2277,
+    "name": "U.S. Botanic Garden",
+    "url": "https://www.usbg.gov/",
+    "abbreviation": "USBG",
+    "domain": "usbg.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2157,
+    "name": "U.S. Bureau of Reclamation",
+    "url": "https://www.usbr.gov/",
+    "abbreviation": "USBR",
+    "domain": "usbr.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2134,
+    "name": "U.S. Citizenship and Immigration Services",
+    "url": "https://www.uscis.gov/",
+    "abbreviation": "USCIS",
+    "domain": "uscis.dhs.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2162,
+    "name": "U.S. Courts",
+    "url": "https://www.uscourts.gov/",
+    "abbreviation": "USC",
+    "domain": "uscourts.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2119,
+    "name": "U.S. Department of Health & Human Services",
+    "url": "https://www.hhs.gov/",
+    "abbreviation": "HHS",
+    "domain": "hhs.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "Enhance the health and well-being of all Americans, by providing for effective health and human services and by fostering sound, sustained advances in the sciences underlying medicine, public health, and social services.",
+    "mission_statement_url": "https://www.hhs.gov/",
+    "performance_url": "https://www.hhs.gov/about/budget/fy2024/performance/index.html",
+    "strategic_plan_url": "https://www.hhs.gov/about/strategic-plan/2022-2026/index.html",
+    "learning_agenda_url": "https://aspe.hhs.gov/reports/fy-2023-2026-hhs-evidence-building-plan ",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2109,
+    "name": "U.S. Department of Justice",
+    "url": "https://www.justice.gov/",
+    "abbreviation": "DOJ",
+    "domain": "usdoj.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "To uphold the rule of law, to keep our country safe, and to protect civil rights.",
+    "mission_statement_url": "https://www.justice.gov/",
+    "performance_url": "https://www.justice.gov/doj/budget-and-performance",
+    "strategic_plan_url": "https://www.justice.gov/doj/doj-strategic-plan-2022-2026",
+    "learning_agenda_url": " https://www.evaluation.gov/agencies/department-of-justice/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2122,
+    "name": "U.S. Department of the Treasury",
+    "url": "https://home.treasury.gov/",
+    "abbreviation": "USDT",
+    "domain": "treas.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "Maintain a strong economy and create economic and job opportunities by promoting the conditions that enable economic growth and stability at home and abroad, strengthen national security by combating threats and protecting the integrity of the financial system, and manage the U.S. Government’s finances and resources effectively.",
+    "mission_statement_url": "https://home.treasury.gov/",
+    "performance_url": "https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/budget-requestannual-performance-plan-and-reports",
+    "strategic_plan_url": "https://home.treasury.gov/about/budget-financial-reporting-planning-and-performance/strategic-plan",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/department-of-treasury/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2264,
+    "name": "U.S. Energy Information Administration",
+    "url": "https://www.eia.gov/",
+    "abbreviation": "EIA",
+    "domain": "eia.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2121,
+    "name": "U.S. Equal Employment Opportunity Commission",
+    "url": "https://www.eeoc.gov/",
+    "abbreviation": "EEOC",
+    "domain": "eeoc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2267,
+    "name": "U.S. Government Publishing Office",
+    "url": "https://www.gpo.gov/",
+    "abbreviation": "GPO",
+    "domain": "gpo.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2230,
+    "name": "U.S. International Development Finance Corporation",
+    "url": "https://www.dfc.gov/",
+    "abbreviation": "DFC",
+    "domain": "dfc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2182,
+    "name": "U.S. Office of Government Ethics",
+    "url": "https://www.oge.gov/",
+    "abbreviation": "OGE",
+    "domain": "oge.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2274,
+    "name": "U.S. Securities and Exchange Commission",
+    "url": "https://www.sec.gov/",
+    "abbreviation": "SEC",
+    "domain": "sec.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2282,
+    "name": "U.S. Senate",
+    "url": "https://www.senate.gov/",
+    "abbreviation": "SENATE",
+    "domain": "senate.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2125,
+    "name": "US Economic Development Administration",
+    "url": "https://eda.gov/",
+    "abbreviation": "EDA",
+    "domain": "eda.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2128,
+    "name": "US Fish and Wildlife",
+    "url": "https://fws.gov/",
+    "abbreviation": "FWS",
+    "domain": "fws.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2104,
+    "name": "US Geological Survey",
+    "url": "https://www.usgs.gov/",
+    "abbreviation": "USGS",
+    "domain": "usgs.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": null,
+    "mission_statement": null,
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2241,
+    "name": "USMC",
+    "url": "https://www.marines.mil/",
+    "abbreviation": "USMC",
+    "domain": "usmc.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2186,
+    "name": "Udall Foundation",
+    "url": "https://udall.gov/",
+    "abbreviation": "UDALL",
+    "domain": "udall.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2148,
+    "name": "United States Agency for International Development",
+    "url": "https://www.usaid.gov/",
+    "abbreviation": "USAID",
+    "domain": "usaid.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "We work to build a freer, more equitable and more humane world by amplifying local voices, advancing sustainable progress, and tackling the world's toughest problems. ",
+    "mission_statement_url": "https://www.usaid.gov/",
+    "performance_url": "https://www.usaid.gov/results-and-data/progress-data/annual-performance-report",
+    "strategic_plan_url": "https://www.usaid.gov/results-and-data/planning",
+    "learning_agenda_url": "https://www.evaluation.gov/agencies/agency-for-international-development/",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2117,
+    "name": "United States Air Force",
+    "url": "https://www.af.mil/",
+    "abbreviation": "USAF",
+    "domain": "af.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2237,
+    "name": "United States Coast Guard",
+    "url": "https://uscg.mil",
+    "abbreviation": "USCG",
+    "domain": "uscg.mil",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2113,
+    "name": "United States Nuclear Regulatory Commission",
+    "url": "https://www.nrc.gov/",
+    "abbreviation": "NRC",
+    "domain": "nrc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "The NRC licenses and regulates the Nation’s civilian use of radioactive materials, to provide reasonable assurance of adequate protection of public health and safety, to promote the common defense and security, and to protect the environment.",
+    "mission_statement_url": "https://www.nrc.gov/about-nrc.html",
+    "performance_url": "https://www.nrc.gov/about-nrc/plans-performance.html",
+    "strategic_plan_url": "https://www.nrc.gov/docs/ML2206/ML22067A170.pdf",
+    "learning_agenda_url": "https://www.nrc.gov/docs/ML2206/ML22066B056.pdf",
+    "cfo_act_agency": true
+  },
+  {
+    "id": 2171,
+    "name": "United States Postal Inspection Service",
+    "url": "https://www.uspis.gov/",
+    "abbreviation": "USPIS",
+    "domain": "uspis.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2155,
+    "name": "United States Postal Service",
+    "url": "https://www.usps.com/",
+    "abbreviation": "USPS",
+    "domain": "usps.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  },
+  {
+    "id": 2263,
+    "name": "United States Sentencing Commission",
+    "url": "https://www.ussc.gov/",
+    "abbreviation": "USSC",
+    "domain": "ussc.gov",
+    "logo": {
+      "url": null,
+      "thumb": {
+        "url": null
+      },
+      "card": {
+        "url": null
+      },
+      "tag": {
+        "url": null
+      },
+      "logo_square": {
+        "url": null
+      }
+    },
+    "digital_analytics_path": "",
+    "mission_statement": "",
+    "mission_statement_url": null,
+    "performance_url": null,
+    "strategic_plan_url": null,
+    "learning_agenda_url": null,
+    "cfo_act_agency": false
+  }
+]
