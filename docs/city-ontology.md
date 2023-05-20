@@ -8,6 +8,7 @@ graph LR
   SP[Strategic plan]
   FD[Financial data]
   BL[Business licenses]
+  CP[Capital projects]
   PSI[Public Safety incidents]
 
   City --> |is a | Jurisdiction
@@ -17,6 +18,8 @@ graph LR
   City --> | has a | MC
   City --> | has a | Website
   City --> | has many | Datasets
+  City --> | has many | CP
+
 
   Datasets --> |include| FD
   Datasets --> |include| BL
